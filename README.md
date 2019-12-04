@@ -46,6 +46,7 @@ _Note: Class activities are group but individual submissions are required for gr
  
 1. In a small group up to 5 people, imagine you are a small _tech_ startup. Then:
    1. List the group members below.
+   
    	Jorge T
    	Jesus CM
    	Bao H
@@ -53,12 +54,15 @@ _Note: Class activities are group but individual submissions are required for gr
    	Logan P
    	Jackie W
    2. Pick a president and write their name below.
+   
    	Logan P
    3. Describe your technical innovation below.
+   
    	A virtual reality system accomplished using a brain-computer interface.
    
 2. Describe the ways your innovation, if realized, would affect society. 
    1. Below, list at least 3 adverse effects (including but not limited to _misuse_) of the innovation and anticipatory actions and mechanisms you can embed that
+   
    	1. Lack of real world interaction: limit length of time users can use the system at once.
 	2. Harm to body health: require users to meet an exercise quota.
 	3. Hacking, glitches, etc: have the device perform a safe shutdown for user safety.
@@ -66,11 +70,15 @@ _Note: Class activities are group but individual submissions are required for gr
 	5. Mental health: implement a computer program that serves as a therapist.
 	6. Surrounding environment issues: notify users over danger detected around their body and detect health issues through the interface.
    2. Below, give an _explicit_ definition of the fine line between the benefit and detriment of your innovation at two moments of its lifetime: (i) immediately upon launch; (ii) after enough time for it to be absorbed into everyday life.
+   
    	(i) Benefit of having an alternate reality to experience anything versus the detriment of keeping active and productive in reality
+	
 	(ii) Benefit of experiencing data in any way possible for research computation and simulation. Through this invention we greatly expand the capacity of human consciousness. The detriment is a shift in the way people experience and integrate the world. It is unsure at this point if this invention will be evolutionary or devolutionary for humans.
 3. Your small "[band of merry psychopaths](#the-band)" are the pivotal social kernel that can define the proper use of your technology. You have to start early, and hold the line. How are you going to ensure that you stay the course? 
    1. Below, define a Code of Ethics (aka Code of Conduct) for your organization that will safeguard your original intentions and values while not stiflying innovation as your startup grows and matures. Your code should have _at most 9 points_.
+   
    	Code of Ethics
+	
 	 i. Changes to this code of Ethics require a unanimous vote from all group members. This rule cannot be changed in any way. No rules may alter the function of this rule.
 	 ii. All group members have equal joint governance over the product and updates to the hardware and software of the product require unanimous vote. No member may claim ownership over the product. This rule cannot be altered or affected in any way.
 	 iii. No government shall have governance over our creation, barring prosecution for hacking offenses.
